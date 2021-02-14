@@ -1,0 +1,5 @@
+Hello there! If your system not recognizing you make sure your mic is working 
+or speech recognition module is perfectly installed.
+After installing everything perfectly run your file..
+
+Thankyou
